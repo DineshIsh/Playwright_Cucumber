@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","29354","Login with valid credentials","","Thu Jul 31 06:17:22 IST 2025","passed","Thu Jul 31 06:17:51 IST 2025","","create a login sceario","Login with valid credentials",""
