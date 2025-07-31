@@ -1,0 +1,14 @@
+[
+  {
+    "testCaseID":"01",
+    "username": "Dinesh__01",
+    "password": "12345",
+    "productName": "Dumbells short"
+  },
+
+  {
+    "testCaseID":"02",
+    "username": "Dinesh__02",
+    "password": "54321"
+  }
+]

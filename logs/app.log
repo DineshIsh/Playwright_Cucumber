@@ -1,0 +1,30 @@
+2025-07-30 12:01:57 [main] INFO  Page.LoginPage - Thread: main
+2025-07-30 12:01:57 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-30 12:49:34 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-30 12:49:34 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 06:17:46 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 06:17:46 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 07:49:40 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 07:49:40 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 08:12:41 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 08:12:41 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 08:19:37 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 08:19:37 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 09:39:49 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 09:39:49 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 09:39:56 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 10:08:16 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 10:08:16 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 10:08:23 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 14:29:59 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 14:29:59 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 14:30:06 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 14:52:18 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 14:52:18 [main] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 14:52:25 [main] INFO  Page.LoginPage - Thread:--- main
+2025-07-31 15:16:42 [TestNG-PoolService-2] INFO  Page.LoginPage - Thread:--- TestNG-PoolService-2
+2025-07-31 15:16:42 [TestNG-PoolService-1] INFO  Page.LoginPage - Thread:--- TestNG-PoolService-1
+2025-07-31 15:16:42 [TestNG-PoolService-3] INFO  Page.LoginPage - Thread:--- TestNG-PoolService-3
+2025-07-31 15:16:42 [TestNG-PoolService-2] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 15:16:42 [TestNG-PoolService-1] INFO  Page.LoginPage - Creating new instance of LoginPage
+2025-07-31 15:16:42 [TestNG-PoolService-3] INFO  Page.LoginPage - Creating new instance of LoginPage
